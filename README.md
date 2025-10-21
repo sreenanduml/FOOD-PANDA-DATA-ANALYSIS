@@ -1,6 +1,6 @@
                 # FOOD-PANDA-DATA-ANALYSIS
 
-Welcome to the Foodpanda Dataset Analysis project! This repository explores and analyzes data from Foodpanda to uncover patterns in customer behavior, order trends, delivery logistics, and more.
+Welcome to my new project on Foodpanda Dataset Analysis . This repository explores and analyzes data from Foodpanda to uncover patterns in customer behavior, order trends, delivery logistics, and more.
 
 Exploring 6,000+ food delivery records to uncover patterns in customer behavior, delivery trends, churn, and satisfaction.
 
