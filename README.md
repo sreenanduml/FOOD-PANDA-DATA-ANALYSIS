@@ -42,11 +42,17 @@ The dataset includes **6,000 rows** and **20 columns**, each representing indivi
 | `delivery_status`  | Delivery outcome (Delivered, Delayed, Cancelled) |
 
 foodpanda-dataset-analysis/
+
 ├── data/
+
 │ ├── foodpanda_raw.csv
+
 │ └── foodpanda_cleaned.csv
+
 │ └── foodpanda_eda.ipynb
+
 │ └── visualizations and plots
+
 └── README.md
 
  Tools & Libraries Used
